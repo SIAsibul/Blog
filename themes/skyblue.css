@@ -1,0 +1,31 @@
+ /*Sky Blue */
+	.headersection {background: #8892BF none repeat scroll 0 0;}
+	.icon a {background: #3c4d98 none repeat scroll 0 0;}
+	.searchbtn input[type="text"] {border: 1px solid #3c4d98;background: #9bcaef;}
+	.searchbtn input[type="submit"] {border: 1px solid #04186f;background: #3c4d98 none repeat scroll 0 0;}
+	.searchbtn input[type="submit"]:hover {border: 1px solid #67D8EF;background: #1d3188  none repeat scroll 0 0;}
+	.navsection {background: none repeat scroll 0 0 #4f577b;min-height: 38px;}
+	.navsection ul li {border-left: 1px solid #8892BF;border-right: 1px solid #8892BF;}
+	.samepost h2 a {color: #4f577b;}
+	.samepost h2, .about h2 {border-bottom: 2px solid #8892bf;color: #16297d;}
+	.samepost h4 a, .about h4 a {color: #3c4d98;}
+	.samepost img {border: 1px solid #0f2eb9;}
+	.samesidebar h2 {background: #4f577b none repeat scroll 0 0;border-bottom: 2px solid #8892bf;color: #fff;}
+	.readmore a {background: #8892bf  none repeat scroll 0 0;border: 1px solid #4f577b;color: #fff;}
+	.readmore a:hover {background: #4F577B none repeat scroll 0 0;border: 1px solid #4f577b;color: #fff;}
+	.maincontent {background: #b4c2ff none repeat scroll 0 0;border: 1px solid #4f577b;}
+	.sidebar {background: #b4c2ff none repeat scroll 0 0;border: 1px solid #4f577b;}
+	.popular img {background: #8892bf  none repeat scroll 0 0;border: 1px solid #4f577b;}
+	.samesidebar ul li {border-bottom: 1px dashed #4f577b;}
+	.samesidebar ul li a {color: #4f577b;}
+	.samesidebar ul li a:hover {color: #8892BF;}
+	.contentsection {background: #2C2C2C none repeat scroll 0 0;border: 1px solid #8892BF;}
+	.footersection {height: 90px;background: #8892bf;text-align: center;}
+	.footermenu ul li a {color: #fff;}
+	.pagination a {background: #4f577b;color: #fff;}
+	.pagination a:hover:not(.active) {background-color: #a56e0a;}
+	.relatedpost h2 {background: #4f577b none repeat scroll 0 0;border-bottom: 2px solid #8892bf  !important; color: #fff !important;}
+	.about img {background: #fff none repeat scroll 0 0; border: 1px solid #4f577b;}
+	input[type="submit"] {background: #8892bf  none repeat scroll 0 0; border: 1px solid #4f577b;}
+	input[type="submit"]: hover {background: #4f577b none repeat scroll 0 0; border: 1px solid #35a535;}
+	.popular h3 {border-bottom: 1px dashed #04124e;}

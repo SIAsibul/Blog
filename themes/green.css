@@ -1,0 +1,33 @@
+/*Green */
+	.headersection {background: #007000 none repeat scroll 0 0;}
+	.icon a {background: #2d9d2d none repeat scroll 0 0;}
+	.searchbtn input[type="text"] {border: 1px solid #007000;background: #52c252;}
+	.searchbtn input[type="submit"] {border: 1px solid #007000;background: #005600 none repeat scroll 0 0; color: #fff;}
+	.searchbtn input[type="submit"]:hover {border: 1px solid #007000;background: #005600 none repeat scroll 0 0;}
+	.navsection {background: none repeat scroll 0 0 #35a535;min-height: 38px;}
+	.navsection ul li {border-left: 1px solid #007000;border-right: 1px solid #007000;}
+	.samepost h2 a {color: #007000;}
+	.maincontent {background: #c9ffc9 none repeat scroll 0 0;border: 1px solid #005600;}
+	.samepost img {border: 1px solid #35A535;}
+	.samesidebar h2 {background: #35A535 none repeat scroll 0 0;border-bottom: 2px solid #C9FFC9;color: #fff;}
+	.readmore a {background: #007000 none repeat scroll 0 0;border: 1px solid #35a535;color: #fff;}
+	.readmore a:hover {background: #35a535 none repeat scroll 0 0;border: 1px solid #35a535;color: #fff;}
+	.maincontent {background: #c9ffc9 none repeat scroll 0 0;border: 1px solid #005600;}
+	.sidebar {background: #c9ffc9 none repeat scroll 0 0;border: 1px solid #ded4c5;}
+	.popular img {background: #007000 none repeat scroll 0 0;border: 1px solid #35a535;}
+	.samesidebar ul li {border-bottom: 1px dashed #007000;}
+	.samesidebar ul li a {color: #007000;}
+	.samesidebar ul li a:hover {color: #007000;}
+	.contentsection {background: #ffffff none repeat scroll 0 0;border: 1px solid #007000;}
+	.footersection {height: 90px;background: #007000;text-align: center;}
+	.footermenu ul li a {color: #fff;}
+	.samesidebar ul li a {color: #007000;}
+	.samepost h4 a, .about h4 a {color: #000000;}
+	.pagination a {background: #35A535;color: #fff;}
+	.pagination a:hover:not(.active) {background-color: #a56e0a;}
+	.samepost h2, .about h2 {border-bottom: 2px solid #35a535;color: #007000;}
+	.relatedpost h2 {background: #35A535 none repeat scroll 0 0;border-bottom: 2px solid #C9FFC9 !important; color: #fff !important;}
+	.about img {background: #fff none repeat scroll 0 0; border: 1px solid #35A535;}
+	input[type="submit"] {background: #007000 none repeat scroll 0 0; border: 1px solid #35a535;}
+	input[type="submit"]: hover {background: #35A535 none repeat scroll 0 0; border: 1px solid #35a535;}
+	.popular h3 {border-bottom: 1px dashed #007000;}
